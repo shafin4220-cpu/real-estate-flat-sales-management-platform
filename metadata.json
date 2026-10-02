@@ -1,0 +1,6 @@
+{
+  "name": "FlatDesk - Real Estate Flat Sales Management",
+  "description": "Internal flat-sales CRM and installment management tool for real estate developers in Bangladesh. Lead theke handover porjonto, shob ek jaygay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
